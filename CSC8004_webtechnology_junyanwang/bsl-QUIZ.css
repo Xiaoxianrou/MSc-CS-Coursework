@@ -1,0 +1,38 @@
+/* 
+  Reset part 
+  reset all the basic element style, make each browser looks same
+*/
+body,h1,h2,h3,h4,h5,h6,hr,p,blockquote,dl,dt,dd,ul,ol,li,pre,fieldset,legend,button,input,textarea,th,td {margin: 0;padding: 0;}
+body,button,input,select,textarea {font-size: 16px;}
+h1 {font-size: 24px;}
+h2 {font-size: 20px;}
+h3 {font-size: 16px;}
+h4,h5,h6 {font-size: 100%;}
+ul,ol {list-style: none;}
+
+/* 
+  Common style 
+*/
+body {background-color: #c7c1c1;font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;}
+#content {position: relative; margin: 0 auto; min-width: 510px; max-width:960px; background-color: #ffffff;}
+h1 {font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;}
+h2 {line-height: 60px; color: #004b83; font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;}
+h3 {line-height: 50px; color: #004b83; font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;}
+p {padding: 15px 0; line-height: 18px;}
+fieldset {padding: 10px; margin-bottom: 10px;}
+
+/* 
+  Head part
+*/
+h1 {position: relative; margin-bottom: 30px; padding: 0 10px; line-height: 60px; color:#004b83;}
+
+/* 
+  Quiz part
+*/
+#quiz {padding: 0 10px;border-top: 10px solid #004b83;}
+
+/* 
+  Footer part
+*/
+#footer {padding: 0 10px;padding: 0 10px;border-top: 10px solid #004b83;}
+#footer p{text-align: right;}

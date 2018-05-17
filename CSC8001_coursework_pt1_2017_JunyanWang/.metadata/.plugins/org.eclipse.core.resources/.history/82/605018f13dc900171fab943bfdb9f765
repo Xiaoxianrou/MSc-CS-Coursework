@@ -1,0 +1,48 @@
+import java.util.*;
+
+public class SentenceSplit {
+	private Scanner scanner;
+	
+	public SentenceSplit() {
+		scanner = new Scanner(System.in);
+	}
+	
+	public static void main(String args[]) {
+		SentenceSplit newSentenceSplit = new SentenceSplit();
+		String sentence = newSentenceSplit.scanner.nextLine();
+		HashMap<String, Integer> result = newSentenceSplit.splitToWords(sentence);
+		
+		for(Map.Entry<String, Integer> entry : result.entrySet()) {
+            System.out.println("The word: " + entry.getKey() + " times " + entry.getValue());       
+        }
+	}
+	
+	public HashMap<String, Integer> splitToWords(String sentence) {
+		ArrayList<String> wordList = new ArrayList<String>();
+		HashMap<String, Integer> resCountWord = new HashMap<String, Integer>();
+		String[] wordListO = sentence.split(" ");
+		
+		for (int i = 0; i < wordListO.length; i++) {
+			String res = wordListO[i];
+			res = res.replaceAll("\\s","");
+			res = res.toLowerCase();
+			wordList.add(res);
+		}
+		
+		for (int i = 0; i < wordList.size(); i++ ) {
+			if(resCountWord.containsKey(wordList.get(i))) {
+				resCountWord.get(wordList.get(i)).equals(resCountWord.get(wordList.get(i)) + 1);
+			}else {
+				resCountWord.put(wordList.get(i), 1);
+			}
+		}
+		
+		return resCountWord;
+	}
+	
+	public ArrayList<String> sortArray(ArrayList<String> wordList){
+		ArrayList<String> result = new ArrayList<String>();
+		
+		return result;
+	}
+}

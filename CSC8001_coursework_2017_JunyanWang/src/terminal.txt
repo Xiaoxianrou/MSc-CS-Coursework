@@ -1,0 +1,215 @@
+-------------------
+Welcome to the club menu. Please input the option letter
+f - to finish running the program.
+e - to display on the screen the information about all the events
+c - to display on the screen the information about all the clients
+b - to update the stored data when tickets are bought by one of the registered clients
+r - to update the stored data when a registered client cancels/returns tickets.
+-------------------
+e
+-------------------
+Athletics   4
+Equestrian Jumping   7
+Football   2
+Handball   66
+Tennis   8
+Volleyball   41
+-------------------
+Press enter return, then back to the main menu
+
+-------------------
+Welcome to the club menu. Please input the option letter
+f - to finish running the program.
+e - to display on the screen the information about all the events
+c - to display on the screen the information about all the clients
+b - to update the stored data when tickets are bought by one of the registered clients
+r - to update the stored data when a registered client cancels/returns tickets.
+-------------------
+c
+-------------------
+Fan Wan   
+Junyan Wang   
+Xiaojing Wang   
+-------------------
+Press enter return, then back to the main menu
+
+-------------------
+Welcome to the club menu. Please input the option letter
+f - to finish running the program.
+e - to display on the screen the information about all the events
+c - to display on the screen the information about all the clients
+b - to update the stored data when tickets are bought by one of the registered clients
+r - to update the stored data when a registered client cancels/returns tickets.
+-------------------
+b
+enter the client first name
+Junyan
+enter the client surname
+Fan
+enter the event name
+Football
+-------------------
+Sorry the client is invalid
+(1). Continue buy tickets
+(2). Back to the main menu
+-------------------
+1
+enter the client first name
+Junyan
+enter the client surname
+Wang
+enter the event name
+Football
+enter how many tickets do you want to buy
+1
+-------------------
+Completely
+(1). Continue buy tickets
+(2). Back to the main menu
+-------------------
+1
+enter the client first name
+Fan
+enter the client surname
+Wan
+enter the event name
+Tennis
+enter how many tickets do you want to buy
+20
+-------------------
+Sorry, not available tickets
+(1). Continue buy tickets
+(2). Back to the main menu
+-------------------
+1
+enter the client first name
+Fan
+enter the client surname
+Wan
+enter the event name
+Tennis
+enter how many tickets do you want to buy
+4
+-------------------
+Completely
+(1). Continue buy tickets
+(2). Back to the main menu
+-------------------
+2
+-------------------
+Welcome to the club menu. Please input the option letter
+f - to finish running the program.
+e - to display on the screen the information about all the events
+c - to display on the screen the information about all the clients
+b - to update the stored data when tickets are bought by one of the registered clients
+r - to update the stored data when a registered client cancels/returns tickets.
+-------------------
+e
+-------------------
+Athletics   4
+Equestrian Jumping   7
+Football   1
+Handball   66
+Tennis   4
+Volleyball   41
+-------------------
+Press enter return, then back to the main menu
+
+-------------------
+Welcome to the club menu. Please input the option letter
+f - to finish running the program.
+e - to display on the screen the information about all the events
+c - to display on the screen the information about all the clients
+b - to update the stored data when tickets are bought by one of the registered clients
+r - to update the stored data when a registered client cancels/returns tickets.
+-------------------
+c
+-------------------
+Fan Wan   Tennis 4   
+Junyan Wang   Football 1   
+Xiaojing Wang   
+-------------------
+Press enter return, then back to the main menu
+
+-------------------
+Welcome to the club menu. Please input the option letter
+f - to finish running the program.
+e - to display on the screen the information about all the events
+c - to display on the screen the information about all the clients
+b - to update the stored data when tickets are bought by one of the registered clients
+r - to update the stored data when a registered client cancels/returns tickets.
+-------------------
+r
+enter the client first name
+Fan
+enter the client surname
+Wan
+enter the event name
+Tennis
+enter how many tickets do you want to cancel
+10
+-------------------
+Sorry, you haven't buy 10 tickets
+(1). Continue cancel tickets
+(2). Back to the main menu
+-------------------
+1
+enter the client first name
+Fan
+enter the client surname
+Wan
+enter the event name
+Tennis
+enter how many tickets do you want to cancel
+2
+-------------------
+Completely
+(1). Continue cancel tickets
+(2). Back to the main menu
+-------------------
+2
+-------------------
+Welcome to the club menu. Please input the option letter
+f - to finish running the program.
+e - to display on the screen the information about all the events
+c - to display on the screen the information about all the clients
+b - to update the stored data when tickets are bought by one of the registered clients
+r - to update the stored data when a registered client cancels/returns tickets.
+-------------------
+e
+-------------------
+Athletics   4
+Equestrian Jumping   7
+Football   1
+Handball   66
+Tennis   6
+Volleyball   41
+-------------------
+Press enter return, then back to the main menu
+
+-------------------
+Welcome to the club menu. Please input the option letter
+f - to finish running the program.
+e - to display on the screen the information about all the events
+c - to display on the screen the information about all the clients
+b - to update the stored data when tickets are bought by one of the registered clients
+r - to update the stored data when a registered client cancels/returns tickets.
+-------------------
+c
+-------------------
+Fan Wan   Tennis 2   
+Junyan Wang   Football 1   
+Xiaojing Wang   
+-------------------
+Press enter return, then back to the main menu
+
+-------------------
+Welcome to the club menu. Please input the option letter
+f - to finish running the program.
+e - to display on the screen the information about all the events
+c - to display on the screen the information about all the clients
+b - to update the stored data when tickets are bought by one of the registered clients
+r - to update the stored data when a registered client cancels/returns tickets.
+-------------------
+f
+See you
